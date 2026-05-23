@@ -1,4 +1,4 @@
-# 大学社团管理系统 (University Club Management System)
+# 基于React的高校社团管理平台
 
 一个基于 React + Express + MySQL 的大学社团管理系统，提供社团活动管理、成员管理、地图定位等功能。
 
